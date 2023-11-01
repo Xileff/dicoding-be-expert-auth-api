@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 const RegisterUser = require('../../Domains/users/entities/RegisterUser');
 
 class AddUserUseCase {

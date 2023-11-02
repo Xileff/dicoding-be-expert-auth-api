@@ -21,6 +21,7 @@ const createServer = async (container) => {
     },
   ]);
 
+  // test CI/CD
   server.route({
     method: 'GET',
     path: '/',
